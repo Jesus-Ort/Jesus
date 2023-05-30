@@ -1,6 +1,4 @@
-Hola soy @JesusFWD, (me llamo Jesús), me interesa el desarrollo web frontend.
-
-Actualmente estoy aprendiendo Angular
+Hola soy Jesús me interesa el desarrollo web frontend.
 
 Me considero un desarrollador web junior, tengo conocimientos en HTML5 | CSS3 | JavaScript
 
